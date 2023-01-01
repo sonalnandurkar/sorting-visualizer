@@ -1,8 +1,5 @@
 # Sorting Visualizer
 
-![Project Image](https://github.com/sonalnandurkar/sorting-visualizer/blob/master/image/gif.gif)
-> [Live demo](https://github.com/sonalnandurkar/sorting-visualizer)
-
 ---
 
 ## Description
